@@ -7,6 +7,13 @@
 
 [リンク](https://nnn.ed.nico)
 
+##Skills
+- Windows10, mac, linux
+- JavaScript, C#, C++
+
+##Works
+[GitHub](github.com/middleHeart)
+
 
 順序なしリスト
 - 要素1
