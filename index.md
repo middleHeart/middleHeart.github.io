@@ -1,6 +1,8 @@
 #About
 ここに自己紹介
 
+![N予備校のロゴ](N_yobikou.png)
+
 ##Profile
 - masayossi
 - 千葉県
